@@ -1,4 +1,4 @@
-###  Desafio Nginx com Nodejs, do modulo docker, do curso Full Cycle 2.0
+###  git commit -m "first commit"
 
 É criado 3 containers docker:
 
@@ -20,3 +20,7 @@
 
     docker-compose up -d
 
+
+**Parametro :**
+    
+    http://localhost:8080?name=[nome_que_sera_inserido]
