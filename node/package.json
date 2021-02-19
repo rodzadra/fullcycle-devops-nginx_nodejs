@@ -1,13 +1,27 @@
 {
-  "name": "app",
+  "name": "fullcycle-devop-node",
   "version": "1.0.0",
-  "description": "",
+  "description": "Desafio NGinx e Nodejs do curso Fullcyle .20",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodzadra/fullcycle-devops-nginx_nodejs.git"
+  },
+  "keywords": [
+    "fullcycle",
+    "nodejs",
+    "nginx",
+    "mysql"
+  ],
+  "author": "Rodrigo Z. Armond <rodzadra@gmail.com>",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodzadra/fullcycle-devops-nginx_nodejs/issues"
+  },
+  "homepage": "https://github.com/rodzadra/fullcycle-devops-nginx_nodejs#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
