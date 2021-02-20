@@ -17,7 +17,7 @@ app.get('/', (req,res) => {
             console.log(results)
             var result = '<h1>Full Cycle Rocks!</h1><br />';
             result += '<table border="1"><thead>';
-            result += '<tr><td colspan="2">Nomes cadastrada no banco de dados</td></tr>';
+            result += '<tr><td colspan="2">Nome(s) cadastrado(s) no banco de dados</td></tr>';
             result += '</thead><tbody>';
             result += '<tr><th>ID</th><th>Nome</th></tr>';
             results.forEach( el => {
