@@ -10,7 +10,7 @@
 
     git clone https://github.com/rodzadra/fullcycle-devops-nginx_nodejs
 
-    cd fullcycle-devops-nginx_nodejs/node
+    cd fullcycle-devops-nginx_nodejs
 
     docker-compose up -d
 
