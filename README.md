@@ -12,14 +12,7 @@
 
     cd fullcycle-devops-nginx_nodejs/node
 
-    npm install
-
-    cd ..
-
-    docker-compose build
-
     docker-compose up -d
-
 
 **Parametro :**
     
